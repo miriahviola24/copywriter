@@ -251,6 +251,7 @@ All rules are classified by evidence level.
 | **No Oxford comma exceptions** | Lists use Oxford comma: "Step 3', 'Form', 'Geo (Homepage)'" |
 | **"Cancel" is always Cancel** | Dismiss CTA is never "No", "Never mind", "Go back" |
 | **Confirm CTA mirrors the verb** | "Yes, Delete Zone" mirrors "Confirm Deleting Zone" |
+| **Complete sentences with proper punctuation** | All body copy, toasts, warnings, and error messages are complete sentences ending with a period. Fragments are only acceptable for short labels, pill copy, and modal titles. |
 
 **⚠️ Inferred**
 
@@ -372,6 +373,7 @@ Use this rubric to evaluate any new or existing microcopy against approved patte
 | Criterion | Check |
 |---|---|
 | No emoji | ✅ / ❌ |
+| Body copy is a complete sentence ending with a period (fragments only acceptable for labels, pills, and modal titles) | ✅ / ❌ |
 | No exclamation points | ✅ / ❌ |
 | Named entities in single quotes | ✅ / ❌ |
 | No casual filler ("Hey", "Just", "Simply", "Basically") | ✅ / ❌ |
@@ -412,7 +414,8 @@ For every request, return:
 - Structured: use discrete list formatting for multi-step errors or instructions
 - Named entities in single quotes: 'Cluster Name', 'Zone Name'
 - Sentence case for body copy and toasts; Title Case for modal titles and error headlines
-- Passive voice for system-led success: "has been saved successfully" not "You saved it"
+- Passive voice for system-led success: "ha- Complete sentences with proper punctuation: all body copy, toasts, warnings, and error messages are complete sentences ending with a period. Fragments are only acceptable for short labels, pill copy, and modal titles.
+s been saved successfully" not "You saved it"
 - Active voice for agent/person-led activity logs: "Agent Name called Contact Name"
 
 **Never:**
